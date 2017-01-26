@@ -1,0 +1,18 @@
+{
+  "name": "colissimo-generate-label",
+  "version": "1.0.0",
+  "description": "Generate Label Request with Colissimo Webservices (SOAP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colissimo"
+  ],
+  "author": "pierre cordier <pierrecordier10@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.18.0",
+    "xml2js": "^0.4.17"
+  }
+}
