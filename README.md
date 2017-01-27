@@ -9,11 +9,11 @@ Documentation: https://www.coliposte.fr/pro/docs/docutheque/divers/socolissimo/i
 
 ## Installation
 
-`npm install colissimo-label-generate`
+`npm install colissimo-generate-label`
 
 ## How it works
 
-* You can use `contractNumber/password` what you usually use to connect to https://www.colissimo.entreprise.laposte.fr/
+You can use `contractNumber/password` what you usually use to connect to https://www.colissimo.entreprise.laposte.fr/
 
 ## Example
 

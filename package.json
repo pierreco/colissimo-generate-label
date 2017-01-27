@@ -1,7 +1,7 @@
 {
   "name": "colissimo-generate-label",
-  "version": "1.0.0",
-  "description": "Generate Label Request with Colissimo Webservices (SOAP)",
+  "version": "1.0.1",
+  "description": "Generate Label (PDF link) with Colissimo Webservices (SOAP)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,10 @@
   "keywords": [
     "colissimo"
   ],
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/pierreco/colissimo-generate-label"
+  },
   "author": "pierre cordier <pierrecordier10@gmail.com>",
   "license": "ISC",
   "dependencies": {
